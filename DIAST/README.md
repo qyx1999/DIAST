@@ -1,5 +1,5 @@
 ## Environment
-- [PyTorch >= 1.7](https://pytorch.org/) **(Recommend **NOT** using torch 1.8!!! It would cause abnormal performance.)**
+- [PyTorch >= 1.7](https://pytorch.org/) 
 - [BasicSR == 1.3.4.9](https://github.com/XPixelGroup/BasicSR/blob/master/INSTALL.md) 
 
 ## How To Test
